@@ -1,1 +1,1 @@
-# Added notebook 5 and if statments 
+# Added notebook 6 and Dictionary Pratice
