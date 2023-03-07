@@ -1,1 +1,1 @@
-# Added notebook 6 and Dictionary Pratice
+# Added notebook 7
